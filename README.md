@@ -2,11 +2,11 @@ This project contains sample code for retrieving a list of support cases using t
 
 ### 1. Verify your GCP Support Plan
 
-* The GCP Support API is only available with Enhanced Support or Premium Support plans. Verify your current plan and upgrade if necessary.
+* The GCP Support API is only available with **Enhanced Support** or **Premium Support** plans. Verify your current plan and upgrade if necessary.
 
 ### 2. Enable the Cloud Support API
 
-* In the GCP Console, navigate to APIs & Services > Library, search for "Cloud Support API" and enable it.
+* In the GCP Console, navigate to **APIs & Services > Library**, search for "**Cloud Support API**" and enable it.
 
 ### 3. Set up IAM Permissions
 
